@@ -1,3 +1,9 @@
+# Exchange Rate App
+
+** Real-time Currency Conversion **
+
+A Flutter app to quickly and accurately convert currencies using live exchange rates.
+
 ## Screenshots
 
 Here are some screenshots demonstrating the key features of the Exchange Rate App:
