@@ -1,2 +1,2 @@
-# ExchangeRateApp
+ExchangeRateApp
 Flutter Exchange Rate Application 
